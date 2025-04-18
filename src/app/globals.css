@@ -25,17 +25,7 @@ body {
   color: #6e6e6e;
 }
 /* Add a fixed position to the navbar and ensure it stays on top */
-nav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 11; /* Ensures navbar stays above other content */
-  background:#fff;
-  color:#494949;
-  font-family: "Poppins";
-  font-weight:600;
-}
+
 
 /* globals.css */
 .home-section {
